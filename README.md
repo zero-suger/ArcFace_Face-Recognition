@@ -31,3 +31,8 @@
 ------------
 
 **In my case:** I just trained ArcFace with small dataset with 100 images in with one identity  So I get low similarity percentage. Use Feature Extraction and Fine Tune to improve model performance.
+
+
+# Thank You :lollipop: :lollipop: :lollipop:
+
+Contact with me to download custom trained weights (I did support the repo with weights link bcz the weights are trained with custom dataset which has my private images): **uacoding01@gmail.com**
